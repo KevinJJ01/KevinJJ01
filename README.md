@@ -1,20 +1,18 @@
 <h1 align="center">Hola 👋, Soy Kevin</h1>
 <h3 align="center">Un apasionado desarrollador web</h3>
-
-
   
 <h3 align="center">Contactame desde mis redes:</h3>
 <div align="center">
 
-[![image](https://www.linkedin.com/in/kevin-muñoz-5147982aa/)
-[![image](https://kevinjj01.github.io)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juancruzre/](https://www.linkedin.com/in/kevin-muñoz-5147982aa/))
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
   
 </div>
 
 <h3 align="center">Lenguajes y herramientas:</h3>
 
 <p align="center"> 
-  <a href="" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -39,20 +37,6 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="" />
-  <img height= "150" src="" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JuanCruz21&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruz21&theme=react&layout=compact" />
 </p>
-<!--
-**KevinJJ01/KevinJJ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
