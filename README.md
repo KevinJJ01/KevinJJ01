@@ -6,8 +6,8 @@
 <h3 align="center">Contactame desde mis redes:</h3>
 <div align="center">
 
-[![image]()
-[![image]()
+[![image](https://www.linkedin.com/in/kevin-muñoz-5147982aa/)
+[![image](https://kevinjj01.github.io)
   
 </div>
 
