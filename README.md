@@ -1,5 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300/1E1E2F/00FFAA?text=Hola,+soy+Kevin+👨‍💻)
-
+![Banner](https://github.com/KevinJJ01/KevinJJ01/blob/main/assets/fondo-matrix.png?raw=true)
 
 
 
