@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KevinJJ01/KevinJJ01/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KevinJJ01/KevinJJ01/snake.yml" alt="Snake animation" />
 
 ###
