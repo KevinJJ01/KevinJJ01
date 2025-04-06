@@ -1,4 +1,9 @@
-<h1 style="background-color: blue; background-size: cover; padding: 0px; color: white; text-align: center;" align="left">Hi 👋! My name is Kevin and I'm developer, from Colombia</h1>
+![Banner](https://via.placeholder.com/1200x300/1E1E2F/00FFAA?text=Hola,+soy+Kevin+👨‍💻)
+
+
+
+
+<h1  align="left">Hi 👋! My name is Kevin and I'm developer, from Colombia</h1>
 
 ###
 
