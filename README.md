@@ -11,9 +11,6 @@
 
 <h3 align="center">Lenguajes y herramientas:</h3>
 
-## 🎮 "Visita mi portafolio. "
-👉 [¡Jugar ahora!]([https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/](https://kevinjj01.github.io))
-
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
