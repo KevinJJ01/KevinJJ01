@@ -1,6 +1,3 @@
-##![Banner](https://github.com/KevinJJ01/KevinJJ01/blob/main/assets/fondo-matrix.png?raw=true)
-
-
 
 <h1  align="left">Hi 👋! My name is Kevin and I'm developer, from Colombia</h1>
 
